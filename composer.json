@@ -1,0 +1,12 @@
+{
+    "name": "akashakram/calculator",
+    "description": "Simple calculator for laravel package testing",
+    "authors": [
+        {
+            "name": "Akramul Islam",
+            "email": "akashakram@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
